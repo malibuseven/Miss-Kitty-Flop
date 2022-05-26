@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    margin: 0px auto;
+    width: 600px;
+    margin-top: 10px;
+}
+
+.firstcat{
+    width: 400px;
+}
+
+button{
+    width: 160px;
+    height: 60px;
+    background-color: purple;
+    color: white;
+    box-shadow: 3px 3px 3px;
+    font-size: 20px;
+    align-items: center;
+}
